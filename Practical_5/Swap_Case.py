@@ -4,7 +4,7 @@
 
 # Name: Aksh k Desai
 # Id: 20CE020
-# Github Repository Link: https://github.com/AKSHDESAI1/CE259_Practical-2_Assignment.git
+# Github Repository Link: https://github.com/AKSHDESAI1/CE259_Python_Practicals.git
 
 user_input = input()
 str = ''
