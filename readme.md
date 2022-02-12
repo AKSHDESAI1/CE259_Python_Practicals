@@ -4,5 +4,8 @@
     <b>Practical 2:- </b> Study and Learn List, Tuple, Set and Dictionary <br>
     <b>Practical 3:- </b>Find Captain Room Number <br>
     <b>Practical 4:- </b>Find runner-up from given list <br>
-    <b>Practical 5:- </b>Swap Case
+    <b>Practical 5:- </b>Swap Case <br>
+    <b>Practical 6:- </b>Python words programme <br>
+    <b>Practical 7:- </b>Lapindrome <br>
+  
  </h4>
