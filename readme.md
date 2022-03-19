@@ -7,7 +7,7 @@
     <b>Practical 5:- </b>Swap Case <br>
     <b>Practical 6:- </b>Python words programme <br>
     <b>Practical 7:- </b>Lapindrome <br>
-    <b>practical 8:- </b> Python OOPS Programe >br>
-    <b>practical 9:- </b> Python OOPS Programe >br>
+    <b>practical 8:- </b> Python OOPS Programe > <br>
+    <b>practical 9:- </b> Python OOPS Programe > <br>
   
  </h4>
