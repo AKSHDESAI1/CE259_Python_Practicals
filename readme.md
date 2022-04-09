@@ -9,5 +9,6 @@
     <b>Practical 7:- </b>Lapindrome <br>
     <b>practical 8:- </b> Python OOPS Programe  <br>
     <b>practical 9:- </b> Python OOPS Programe  <br>
+   <b>practical 10:- </b>Generate PDF file of your 3rd Semester Mark-sheet 
   
  </h4>
